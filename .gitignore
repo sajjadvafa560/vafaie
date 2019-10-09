@@ -1,15 +1,15 @@
-# filesamsunir application files
-*.apk
+# svirangram file sviran application files
+*.apk sviran
 *.ap_
-
+Svirangram
 # Files for the ART/Dalvik VM
 *.dex
-
+Sviran
 # Java class files
 *.class
-
-# Generated files
-bin/
+Svisamiran
+# Generated files samsunir
+bin/svirangram
 gen/
 out/
 
